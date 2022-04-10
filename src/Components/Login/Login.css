@@ -1,0 +1,57 @@
+.login-container h2 {
+    text-align: center;
+    color: #4c7678;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+}
+
+.btn-google {
+    width: 500px;
+    margin-bottom: 15px;
+    padding: 15px 20px 15px 20px;
+    font-size: 20px;
+    border: none;
+    color: #161515;
+    background-color: #a5def7;
+    border-radius: 5px;
+}
+
+.btn-google:hover {
+    background-color: #9bdaf5;
+    cursor: pointer;
+}
+
+.or {
+    text-align: center;
+}
+
+.login-form {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.login-form form input {
+    width: 460px;
+    margin-bottom: 15px;
+    padding: 15px 20px 15px 20px;
+    font-size: 20px;
+    border: none;
+    background-color: #eef5f8;
+    border-radius: 5px;
+}
+
+#submit-btn {
+    width: 500px;
+    margin-top: 10px;
+    color: #ffffff;
+    background-color: #5997c6;
+}
+
+#submit-btn:hover {
+    background-color: #4587bb;
+    cursor: pointer;
+}

@@ -1,0 +1,16 @@
+.header-container nav {
+    padding: 25px 0 25px 0;
+    text-align: center;
+    background-color: rgb(236, 247, 249);
+}
+
+nav a {
+    margin-right: 25px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #170606;
+}
+
+nav a:hover {
+    color: rgb(168, 83, 8);
+}
